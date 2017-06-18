@@ -1,0 +1,94 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=cont-en 2017.6.13)  15 JUN 2017 12:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tables.tex
+(./tables.tex
+
+ConTeXt  ver: 2017.05.15 21:48 MKII  fmt: 2017.6.13  int: english/english
+
+system          : cont-new.mkii loaded
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/cont-new.mkii
+systems         : beware: some patches loaded from cont-new.mkii
+)
+system          : cont-sys.tex loaded
+(/usr/local/texlive/2017/texmf-config/tex/context/user/cont-sys.tex
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/type-siz.mkii)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/type-one.mkii))
+system          : tables.top loaded
+(./tables.top)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 af->ec:ec->8->2:2 gb->ec:ec->9->2:2 fr->texnansi:texnansi->1
+0->2:2 fr->ec:ec->11->2:2 es->ec:ec->12->2:2 ca->ec:ec->13->2:2 it->texnansi:te
+xnansi->14->2:2 it->ec:ec->15->2:2 la->ec:ec->16->2:2 pt->texnansi:texnansi->17
+->2:2 pt->ec:ec->18->2:2 ro->ec:ec->19->2:2 pl->pl0:pl0->20->2:2 pl->ec:ec->21-
+>2:2 pl->qx:qx->22->2:2 cs->il2:il2->23->2:2 cs->ec:ec->24->2:2 sk->il2:il2->25
+->2:2 sk->ec:ec->26->2:2 hr->ec:ec->27->2:2 sl->ec:ec->28->2:2 tr->ec:ec->29->2
+:2 tk->ec:ec->30->1:2 lt->l7x:l7x->31->2:2 agr->agr:agr->33->2:2 fi->ec:ec->34-
+>2:2 hu->ec:ec->35->2:2 ru->t2a:t2a->37->2:2 uk->t2a:t2a->38->3:3  loaded
+specials        : dvips loaded
+\openout3 = `tables.tui'.
+
+\openout0 = `tables-mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/spec-fdf.mkii))
+(./tables.tuo) (./tables.tuo) (./tables.tuo) (./tables.tuo) (./tables.tuo)
+(./tables.tuo) (./tables.tuo) (./tables.tuo) (./tables.tuo) (./tables.tuo)
+(./tables.tuo)
+publications    : file tables.bbl not found, waiting for bibtex
+(./tables.tuo)
+systems         : begin file tables at line 1
+color           : mpcmyk color space is supported
+color           : mpspot color space is supported
+color           : system rgb is global activated
+fonts           : resetting map file list
+{/usr/local/texlive/2017/texmf-dist/fonts/map/pdftex/context/original-empty.map
+}
+fonts           : using map file: original-base
+{/usr/local/texlive/2017/texmf-dist/fonts/map/pdftex/context/original-base.map}
+fonts           : using map file: original-ams-base
+{/usr/local/texlive/2017/texmf-dist/fonts/map/pdftex/context/original-ams-base.
+map}
+fonts           : using map file: original-public-lm
+{/usr/local/texlive/2017/texmf-dist/fonts/map/pdftex/context/original-public-lm
+.map}
+fonts           : using map file: lm-ec
+{/usr/local/texlive/2017/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
+fonts           : using map file: lm-math
+{/usr/local/texlive/2017/texmf-dist/fonts/map/dvips/lm/lm-math.map}
+fonts           : using map file: lm-rm
+{/usr/local/texlive/2017/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
+fonts           : using map file: original-ams-euler
+{/usr/local/texlive/2017/texmf-dist/fonts/map/pdftex/context/original-ams-euler
+.map} (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/sort-def.mkii)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/sort-lan.mkii)
+[1.1] [2.2] [3.3] [4.4] [5.5] [6.6]
+systems         : end file tables at line 33
+ ) 
+Here is how much of TeX's memory you used:
+ 3193 strings out of 455534
+ 37392 string characters out of 5510641
+ 4869642 words of memory out of 9270867
+ 44460 multiletter control sequences out of 15000+600000
+ 82418 words of font info for 37 fonts, out of 8000000 for 9000
+ 581 hyphenation exceptions out of 8191
+ 52i,17n,50p,211b,2840s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
+
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on tables.pdf (6 pages, 52079 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

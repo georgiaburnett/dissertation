@@ -1,0 +1,41 @@
+\startenvironment
+
+\enableregime[latin2]
+\enableregime[utf]
+\setupcolors[state=start] 
+\setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
+
+\setuppapersize[A4][A4]
+\setuplayout[location=doublesided, topspace=20mm, backspace=40mm, rightmargin=20mm, bottomspace=20mm, header=24pt, footer=24pt, width=fit, height=fit]
+%should location=doublesided or duplex? what is the difference?
+%make sure margin (backspace?) allows for binding on flipside
+
+\definefontfamily [myfamily] [serif] [arial] [protrusion=quality,expansion=quality]
+\setupbodyfont[myfamily, arial]
+
+\setupfootnotedefinition[headstyle=bold, contrastcolor=blue, color=black, location=singlesided, 10pt, line=2.8ex]
+\startsetups[footnote:interlinespace]
+ \setupinterlinespace[line=1.5ex]
+\stopsetups
+
+\setupalign[nothanging,hyphenated,justified, hz]
+\setupindenting[yes,medium,first]
+\setupitemize[indentnext=no]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfc]
+\setuphead[subsection]   [style=\tfb]
+\setuphead[subsubsection][style=\tfa]
+
+\setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=yes,align={flushleft}]
+
+\setuppagenumbering[alternative=doublesided, location={footer,inmargin}]
+
+\setupcaption[table][location=bottom,align=left]
+\setupcaptions[style={\tfx},align=middle,location=bottom]
+
+\setupTABLE[split=repeat, align=middle]
+\setupTABLE[c][each][align=flushleft]
+\setupTABLE[r][first][background=color, backgroundcolor=gray, align=middle]
+
+\stopenvironment

@@ -1,0 +1,33 @@
+\starttext
+
+\setupcolors[state=start]
+
+\setupTABLE[split=repeat, align=middle]
+\setupTABLE[c][each][align=flushleft]
+\setupTABLE[r][first][background=color, backgroundcolor=gray, align=middle]
+
+\bTABLE
+
+\bTABLEhead
+\bTR
+  \bTH  head1 \eTH
+  \bTH  head2 \eTH
+  \bTH  head3 \eTH
+\eTR
+\eTABLEhead
+
+\bTABLEbody
+
+\dorecurse{100}{
+\bTR
+  \bTC  body body body body body \eTC
+  \bTC  body body body body body \eTC
+  \bTC  body body body body body \eTC
+\eTR
+}
+
+\eTABLEbody
+
+\eTABLE
+
+\stoptext
